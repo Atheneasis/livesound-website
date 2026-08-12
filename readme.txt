@@ -40,4 +40,4 @@ The modifications and original project content are my own work.
 ## Disclaimer
 
 This repository contains a modified version of a third-party website template. 
-The original template design and code remain subject to their respective license and attribution requirements.
+The original template design and code remain subject to their respective license and attribution requirements..
