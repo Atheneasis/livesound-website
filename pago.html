@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entradas</title>
+    <link rel="stylesheet" href="prueba.css">
+
+</head>
+<body>
+    <header>
+        <h1>Proceso de pago</h1>
+    </header>
+
+    <main>
+        <form action="#" method="post" class="registration-form">
+            <fieldset>
+                <legend>Información Personal</legend>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+
+                <label for="apellido">Apellido:</label>
+                <input type="text" id="apellido" name="apellido" required>
+
+                <label for="dni">DNI/NIE:</label>
+                <input type="text" id="dni" name="dni" required>
+
+                <label for="sexo">Sexo:</label>
+                <select id="sexo" name="sexo" required>
+                    <option value="masculino">Masculino</option>
+                    <option value="femenino">Femenino</option>
+                    <option value="otro">Otro</option>
+                </select>
+
+                <label for="correo">Correo:</label>
+                <input type="email" id="correo" name="correo" required>
+            </fieldset>
+
+            <fieldset>
+                <legend>Información de Pago</legend>
+                <label for="banco">Banco:</label>
+                <input type="text" id="banco" name="banco" required>
+
+                <label for="num_tarjeta">Número de Tarjeta:</label>
+                <input type="text" id="num_tarjeta" name="num_tarjeta" required>
+
+                <label for="cvv">CVV:</label>
+                <input type="text" id="cvv" name="cvv" required>
+
+                <label for="titular">Titular de la Tarjeta:</label>
+                <input type="text" id="titular" name="titular" required>
+            </fieldset>
+
+            <a href="confirmar.html"><button type="button">Confirmar</button></a>
+        </form>
+
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; All rights reserved | This template is made by JCTS.</p>
+    </footer>
+</body>
+</html>
