@@ -1,8 +1,43 @@
-Thank you for using our template!
+# Live Sound — Website Project
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+A customized website developed as a university project.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## About
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+This project is a modified version of the original Colorlib "DJ" website template.
+
+The original template was adapted and redesigned for the requirements of this academic project, including modifications to the content, structure, visual design and functionality.
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- SCSS
+
+## Credits -
+
+### Original Template
+
+This project is based on the **DJ** website template by Colorlib.
+
+- Author: Colorlib
+- Original template: https://colorlib.com/wp/template/dj/
+- Original license: CC BY 3.0
+- Original template release: July 2020
+
+### Images
+
+Some images/assets used in the original template are credited to Unsplash.
+
+## Academic Project
+
+This website was developed for educational purposes as part of a university project.
+
+The modifications and original project content are my own work.
+
+## Disclaimer
+
+This repository contains a modified version of a third-party website template. 
+The original template design and code remain subject to their respective license and attribution requirements.
